@@ -1,7 +1,7 @@
 from pytube import YouTube
 
 # URL видео на YouTube
-video_url = 'https://www.youtube.com/shorts/XtJ3Yn_zpRs'
+video_url = 'link_to_video'
 
 # Создаем объект YouTube
 yt = YouTube(video_url)
